@@ -1,0 +1,13 @@
+pandas
+kagglehub
+tqdm
+ipykernel
+xgboost
+scikit-learn
+joblib
+matplotlib
+seaborn
+streamlit
+
+
+
