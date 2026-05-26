@@ -10,7 +10,7 @@ An **end-to-end, production-ready healthcare analytics system** that predicts ho
 ---
 
 ## 🚀 Interactive Live Demo
-> **[Live Streamlit URL will be added soon!]**  
+> **[View Live Interactive Dashboard Here](https://patient-readmission-risk-pipeline.streamlit.app/)**  
 *Click the link above to access the interactive web dashboard, run ROI simulations, and test the real-time patient risk scorer.*
 
 ---
